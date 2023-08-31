@@ -1,0 +1,45 @@
+.a{
+    width: 1000px;
+    color: white;
+     background-color: rgb(62, 167, 167);
+    border: 2px solid grey;
+    text-align: center;
+
+}
+.a:hover{
+    color: rgb(0, 26, 255);
+}
+.b{
+    width: 1000px;
+    height: 900px;
+    color: red;
+    border: tomato;
+    background-color: azure;
+    overflow:scroll;
+}
+dt::first-letter{
+     font-size: 60px;
+    color: blue;
+}
+img{
+    width: 100%;
+}
+img:hover{
+    border: 5px solid red;
+}
+.c{
+    display: inline;
+    margin-top: 50px;
+    margin-left: 100px;
+    
+}
+.d{
+    display: inline;
+    
+    border: 5px dotted rebeccapurple;
+    margin-top: 60px ;
+}
+.d:hover{
+     border: 10px solid goldenrod;
+}
+
